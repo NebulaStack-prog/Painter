@@ -15,7 +15,11 @@
 - 🇺🇲  English version: [Documentation](Calculator_v.1_EN.md)
   
 ## 📷 Screenshots
-![](Calc_v.1_1.jpg)
-![](Calc_v.1_2.jpg)
+![](Painter_1.png)
+![](Painter_2.png)
+![](Painter_3.png)
+![](Painter_4.png)
+![](Painter_5.png)
+![](Painter_6.png)
 
 © NebulaStack
