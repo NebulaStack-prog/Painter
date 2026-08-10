@@ -22,4 +22,4 @@
 ![](Painter_5.png)
 ![](Painter_6.png)
 
-© NebulaStack
+© NESTIMS
