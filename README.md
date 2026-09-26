@@ -10,9 +10,9 @@
 - Or download exe: [Painter.jar](https://github.com/NebulaStack-prog/Calculator-v.1/releases/tag/v1.0)
 
 ## 📄 Full Documentation
-- 🇷🇺  Russian version: [Documentation](Calculator_v.1_RU.md)
+- 🇷🇺  Russian version: [Documentation](Painter_RU.md)
   
-- 🇺🇲  English version: [Documentation](Calculator_v.1_EN.md)
+- 🇺🇲  English version: [Documentation](Painter_EN.md)
   
 ## 📷 Screenshots
 ![](Painter_1.png)
